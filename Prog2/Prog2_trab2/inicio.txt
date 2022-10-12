@@ -1,0 +1,7 @@
+Por favor informe o número de qual operação você deseja realizar
+
+1-Cadastrar um novo motorista
+2-Cadastrar um novo veículo
+3-Alterar proprietário de um veículo
+4-Cadastrar uma nova infração
+5-Sair do Sistema
