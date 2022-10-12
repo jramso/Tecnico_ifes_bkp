@@ -1,0 +1,5 @@
+Bem Vindo ao jogo Genius numérico!
+
+O jogo irá sortear algarismos aleatórios que serão exibidos na tela.
+Cabe a você memorizar e digitar corretamente 
+toda a sequência de caracteres exibidos.
